@@ -1,0 +1,10 @@
+{
+  "description": "Connects citizens with rescue teams during emergencies, enabling offline reporting and real-time incident management for effective disaster response.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
